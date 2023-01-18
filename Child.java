@@ -5,7 +5,7 @@ public class Child extends Parent {
 @Override
 public void city() {
 
-	System.out.println("Chennai");
+	System.out.println("Bangalore");
 }
 	
 public void degree() {
